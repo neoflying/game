@@ -1,0 +1,18 @@
+:root {
+    /* --bgcolor: #001846; */
+    --bgcolor: #fafafa;
+    --fontcolor: #000;
+    --titlebgcolor: #000819;
+}
+
+body {
+    margin: unset;
+}
+
+#app {
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: var(--fontcolor);
+    background-color: var(--bgcolor);
+}
